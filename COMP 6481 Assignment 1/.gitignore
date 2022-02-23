@@ -4,3 +4,11 @@ doc/*
 # Java class files
 bin/*
 
+# .settings folder
+.settings/*
+
+# .project file
+.project
+
+# .classpath file
+.classpath
