@@ -1,0 +1,6 @@
+# Java doc folder
+doc/*
+
+# Java class files
+bin/*
+
